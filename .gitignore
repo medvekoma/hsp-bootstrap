@@ -1,1 +1,3 @@
 *.suo
+website.publishproj
+App_Data/PublishProfiles/FTP.pubxml
