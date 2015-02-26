@@ -26,3 +26,8 @@ section {
     width: 360px;
     border: solid gray 3px;
 }
+
+.jumbotron {
+    border-radius: 10px;
+    background-color: lightgrey;
+}
